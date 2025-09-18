@@ -44,7 +44,7 @@ I like to think of myself as a polyglot engineer — here’s my current toolkit
 - 🥗 **[SafeEats](#)** — iOS + FastAPI + OCR pipeline for dietary restriction detection on menus  
 - 🏙️ **[Townie](#)** — Svelte + Django + ArangoDB scavenger-hunt city exploration app  
 - 🕒 **[Overtime Management App](#)** — Cross-platform employee shift bidding (React Native + Fastify + PostgreSQL)  
-- 🔬 **[Judicial Overload Analysis](https://github.com/Jon-Hurley/491-work)** — Data + legal scholarship on rising caseloads in the U.S. judiciary  
+- 🔬 **[Judicial Overload Analysis](https://github.com/Jon-Hurley/judicial-overload-research)** — Data + legal scholarship on rising caseloads in the U.S. judiciary  
 
 ---
 
